@@ -1,0 +1,8 @@
+{
+  "name": "Artemis: Live Performance AI",
+  "description": "An autonomous artistic performance analysis agent that provides real-time, actionable feedback to dancers and musicians using Gemini 3.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
